@@ -1,0 +1,35 @@
+This privacy policy is for anishkutti.com and anishkutti (android and IOS) apps
+
+Privacy Policy
+Our app and website are committed to maintaining privacy protection
+By using this service, you agree to the collection and use of information in accordance with this privacy policy below
+
+1. Log
+-------
+We want to inform you that, we may log your interaction with our site in-order to understand the overall usage of our service, track errors, user location and users trying to hack the app or site
+
+2.Cookies
+----------
+Cookies are files created by the websites you use while interacting with a site. Typically, your browsers settings allowing websites to create cookies. In your browser, you do have the option to disable cookies.
+We use cookies to give you the best online experience. These cookies allow the collection of data to help us report on how visitors use the website and to help us improve it
+
+3. Donot-Provide Personal data
+-------------------------------
+Please donot enter any personal identity data like social security, driver’s license, Date of birth, passport or equivalent in this app and site used by this app
+We are not liable for any such data entered by you
+
+4. Third-Party APIs
+---------------------
+Some of the feature uses third party APIs and report back the results. E.g. the Crypto  and Stock modules used by the crypto icon and stock market icon respectively. 
+The results provided are for getting an idea but may not be accurate. The data in some cases are mock data or old data used to show possible functionality the
+site can integrate.
+In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from the data.
+
+5. Disclaimer
+The information contained in this website is for general information purposes only. The information is provided by this app and site and while we endeavor to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information.
+In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this app and websites used by this app.
+Through this website and app you are able to link to other websites which are not under the control of this app. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+Every effort is made to keep the website up and running smoothly. However, this app takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
+Changes to the Privacy Policy
+If there are substantive1 changes made to this blanket privacy policy or to the individual privacy policies of any of my extensions, we will push out a new version of the affected extension(s) and ask you to agree to the amended privacy policy.
+
